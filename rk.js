@@ -4,13 +4,10 @@ function operator(proxies) {
 
   const ipMap = {
     'p-s2.presntp.uk': [
-      ['103.109.23.144', '电信', 'CT']
     ],
     'p-s4.presntp.uk': [
-      ['103.109.23.144', '电信', 'CT']
     ],
     'p-gtm.presntp.uk': [
-      ['103.109.23.144', '电信', 'CT']
     ]
   }
 
