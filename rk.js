@@ -8,6 +8,7 @@ function operator(proxies) {
     'p-s4.presntp.uk': [
     ],
     'p-gtm.presntp.uk': [
+      ['103.109.23.145', '电信', 'CT']
     ]
   }
 
